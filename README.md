@@ -46,6 +46,9 @@ Please send recommendations via PR
 install into `~/Library/Application Support/iTerm2/Scripts/AutoLaunch` then setup via menu 'scripts'
 
 
-- 
+## Home
+
+- Home Assistant: https://github.com/basnijholt/adaptive-lighting
+
 
 
