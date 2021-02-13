@@ -9,11 +9,12 @@ To improve life quality it is recommended to follow the circadian rhythm, aka th
 
 - [Operating System](#operating-system)
   * [Desktop](#desktop)
-  * [Mobile](#desktop)
-- [Wallpaper](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
+  * [Mobile](#mobile)
+- [Wallpaper](#wallpaper1)
+  * [Desktop](#desktop-1)
+  * [Mobile](#mobile-1
+- [Coding](#coding)
+- [Home](#home)
   
 <!-- toc -->
 
@@ -50,5 +51,9 @@ install into `~/Library/Application Support/iTerm2/Scripts/AutoLaunch` then setu
 
 - Home Assistant: https://github.com/basnijholt/adaptive-lighting
 
+## Browser
 
+- For Chrome/Firefox/Safari/Firefox Android: https://darkreader.org/
+
+ You can setup dark reader to activate based on operating system dark theme.
 
