@@ -43,7 +43,7 @@ Please send recommendations via PR
 
 ## Coding
 
-- VSCode: https://marketplace.visualstudio.com/items?itemName=intodevelopment.nightlight
+- VSCode: Settings -> Window -> Auto Detect Color Scheme
 - ITerm 2: https://gist.github.com/jamesmacfie/2061023e5365e8b6bfbbc20792ac90f8#gistcomment-3599985
 install into `~/Library/Application Support/iTerm2/Scripts/AutoLaunch` then setup via menu 'scripts'
 
