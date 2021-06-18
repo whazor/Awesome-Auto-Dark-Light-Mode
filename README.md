@@ -3,7 +3,7 @@ For the fanatics who want all bright in day and all dark in night
 
 ## Why?
 
-To improve life quality it is recommended to follow the circadian rhythm, aka the biological clock. For this reason people use F.lux, night shift, dark mode etcetra. This repo tries to list all things related to automation efforts in dark/light-mode/night shift etcetra.
+To improve life quality it is recommended to follow the circadian rhythm, aka the biological clock. For this reason people use F.lux, night shift, dark mode etcetra. This repo provides a space for all things related to automation efforts in dark/light-mode/night shift etcetra.
 
 ## Index
 
